@@ -1,6 +1,10 @@
 --- 
-title: "Use Terms in Statistics"
+title: "Useful Terms in Statistics"
 author: "Nannan Wang"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
+
+# Population VS Sample
+## What is Population
+## What is Sample

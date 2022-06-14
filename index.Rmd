@@ -1,6 +1,6 @@
 --- 
-title: "YOUR TITLE HERE"
-author: "YOUR NAME HERE"
+title: "Use Terms in Statistics"
+author: "Nannan Wang"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---

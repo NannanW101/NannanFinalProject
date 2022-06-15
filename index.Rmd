@@ -1,10 +1,11 @@
---- 
+---
 title: "Useful Terms in Statistics"
 author: "Nannan Wang"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
 
-# Population VS Sample
-## What is Population
-## What is Sample
+# What is this book? {-}
+This book is created as a final project advised by Dr. Olmanson for TEAC-889.      
+
+> **TLTE 889**: Working with a faculty mentor on either an individual or small-group basis, the student plans, conducts, and reports a summative work project.

@@ -1,5 +1,4 @@
 population-vs-sample
-what-is-statistics
 what-is-population
 what-is-sample
-population-vs-sample-1
+what-is-statistics

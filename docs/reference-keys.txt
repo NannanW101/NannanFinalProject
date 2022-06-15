@@ -1,4 +1,9 @@
-population-vs-sample
-what-is-population
-what-is-sample
+significance-how-strong-is-the-evidence
+intro
+definitions
+chance-models
+doris-and-buzz-example
+coin-flipping-activity
+strength-of-evidence
+rock-paper-scissors-example
 what-is-statistics

@@ -222,3 +222,14 @@ Someone claimed that scissor is thrown the least often during a competition and 
 
 10. Write a conclusion in context. 
     + We don't have sufficient evidence to conclude the long run proportion of throwing a scissor is less than 0.33.
+    
+```{r}
+library(ggplot2)
+summary(cars)
+ggplot(data=cars,aes(x=speed,y=dist))+geom_line()
+```
+    
+    
+    
+    
+    
